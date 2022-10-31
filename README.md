@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jltc08
-- 👀 I’m interested in learning how to develop projects and read code.
+- 👋 Hi, I’m @jltc08 (T.B.)
+- 👀 I’m interested in applying academic skills in useful business applications.
 - 🌱 I’m currently learning Python, postgreSQL, R, and SAS.
-- 💞️ I’m looking to collaborate on very basic projects since I am still very novice to programming languages.
+- 💞️ I’m looking to collaborate on basic to intermediate analysis projects.
 
 
 <!---
