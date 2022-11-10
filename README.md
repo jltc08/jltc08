@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jltc08 (T.B.)
 - 👀 I’m interested in applying academic skills in useful business applications.
-- 🌱 I’m currently learning Python, postgreSQL, R, and SAS.
-- 💞️ I’m looking to collaborate on basic to intermediate analysis projects.
+- 🌱 I’m currently applying skills in Excel, Python, and Tableau to projects to demonstrate my skills.
 
 
 <!---
